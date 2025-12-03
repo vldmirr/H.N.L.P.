@@ -1,1 +1,1 @@
-# RedditParser
+# Hacker News Links Parser
