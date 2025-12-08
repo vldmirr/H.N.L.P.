@@ -4,13 +4,16 @@ parser for working with [hacker news](https://news.ycombinator.com/)
 
 ## Install:
 
+### Linux:
 ```bash
 python -m venv venv
+pip install -r requirements.txt
 ```
 
 ### Windows:
 ```powershell
 .\venv\Scripts\Activate.bat
+pip install -r requirements.txt
 ```
 
 ### Linux:
